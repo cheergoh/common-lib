@@ -1,0 +1,14 @@
+[
+  {
+    "id": "core",
+    "type": "mysql",
+    "pool": "dbcp2",
+    "host": "localhost",
+    "port": 3306,
+    "schema": "daily",
+    "username": "root",
+    "password": "123456",
+    "initialSize": 1,
+    "maxSize": 5
+  }
+]

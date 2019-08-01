@@ -1,0 +1,13 @@
+[
+  {
+    "id": "inoherb",
+    "host": "http://member.inoherb.com",
+    "api": [
+      {
+        "id": "order",
+        "uri": "/jhjtest/wechatapi/JHJActivity/QueryMemberOrder",
+        "method": "get"
+      }
+    ]
+  }
+]
